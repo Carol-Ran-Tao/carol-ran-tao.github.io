@@ -7,7 +7,7 @@ author_profile: true
 ## Music
 I love singing and listening to music. In 2017, I ranked 6<sup>th</sup> in Tencent National Singing Contest. So far, [My coverings](http://kg.qq.com/node/personal?uid=6b9c9887232937) have attracted more than 36 thousand followers in WeSing. Furthermore, I also sang original songs - e.g. [the theme song for 2020 Tsinghua Graduation Ceremony]( https://b23.tv/cWzDVR) - and performed at the Campus Singer Competition in Tsinghua University.
 
-<img src="/images/mid.jpeg" width = 50%><img src="/images/final.jpeg" width = 50%> 
+<img src="/images/mid.jpeg" width = 50%><img src="/images/final2020.jpeg" width = 50%> 
 Besides, I’ve been a fan of Charlie Shen Zhou for many years. Here’s the photo I took when I was at his vocal concert.
 <div align="center"><img src="/images/shenshen.jpeg" width = 400></div> 
 
