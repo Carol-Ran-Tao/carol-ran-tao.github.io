@@ -16,4 +16,5 @@ author_profile: true
 - Sudoku: Third Degree Amateur
 
 ## Selected Offers
-<div align="center><img src="/images/offer.jpeg" width = 400></div>
+
+<div align="center"><img src="/images/offer.jpeg" width = 400></div> 
