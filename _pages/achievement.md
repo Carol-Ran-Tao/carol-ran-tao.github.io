@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 ## Selected Awards
-- Silver Medal in Kaggle-TMDB box-office prediction contest, 2019
+- Silver Medal (Top 4%) in Kaggle-TMDB box-office prediction contest, 2019
 - Tsinghua Comprehensive Excellence Scholarship, 2018-2019
-- 6th in Tencent National Singing Contest, 2017
+- 6<sup>th</sup> in Tencent National Singing Contest, 2017
 - Freshman Scholarship, 2016-2020
 
 ## Selected Certificates
