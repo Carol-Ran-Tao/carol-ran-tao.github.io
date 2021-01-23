@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Work Experience"
+    url: /work/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Academic Experience"
+    url: /academic/    
 
   - title: "Achievement"
     url: /achievement/    
     
-  # - title: "Portfolio"
-    # url: /portfolio/
+  - title: "Miscellaneous"
+    url: /miscellaneous/
         
   # - title: "Blog Posts"
     # url: /year-archive/
