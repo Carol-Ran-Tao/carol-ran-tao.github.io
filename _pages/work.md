@@ -18,5 +18,5 @@ author_profile: true
 - Built high-frequency trading strategy based on HMM (Hidden Markov Method), and achieved 21.86% APR in A-share market.
 
 4. CITIC Asset Management Co.,Ltd, Project manager & intern at Infrastructure & Energy Division, 2018.
-•	Independently completed an ABS project by writing a 50,000-word application report, including detailed due diligence, cash flow prediction, risk assessment and collateral valuation. Attended over 50 internal conferences, followed up clients and drafted 11 contracts.
-•	Participated in a healthcare M&A fund debt financing project. Conducted firm due diligence, wrote industry analysis and feasibility report.
+- Independently completed an ABS project by writing a 50,000-word application report, including detailed due diligence, cash flow prediction, risk assessment and collateral valuation. Attended over 50 internal conferences, followed up clients and drafted 11 contracts.
+- Participated in a healthcare M&A fund debt financing project. Conducted firm due diligence, wrote industry analysis and feasibility report.
