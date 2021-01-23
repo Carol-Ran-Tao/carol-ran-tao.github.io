@@ -14,4 +14,6 @@ I am somewhat a combination of a financial economics researcher and a data analy
 
 Prior to my graduate career, I received a bachelor of science degree in economics and finance with a minor in computer science at Tsinghua University. I also studied at the Wharton School, University of Pennsylvania as an exchange student in 2018 Fall. Furthermore, I received Comprehensive Excellence Scholarship and Freshman Scholarship at Tsinghua University, and a silver medal during a Kaggle contest.
 
-In my spare time, I enjoy reading, singing, skateboarding, playing Rubiks’ Cube, and solving sudoku puzzles. I am an active singer, an enthusiastic fan of [Charlie Shen Zhou](https://en.wikipedia.org/wiki/Zhou_Shen), and an avid collector of anything related to [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) or [Disney movies](https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films).
+In my spare time, I enjoy reading, singing, skateboarding, playing Rubiks’ Cube, watching costume dramas, and solving sudoku puzzles. I am an active singer, an enthusiastic fan of [Charlie Shen Zhou](https://en.wikipedia.org/wiki/Zhou_Shen), and an avid collector of anything related to [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) or [Disney movies](https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films). Besides, I keep a collection of photography with myself dressing ancient costumes, and here is a selection of these photos.
+
+<div align="center"><img src="/images/rt-personal.jpeg" width = 400></div>
