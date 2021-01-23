@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected Research Projects
 1. Bond Yield Spread Pricing using Machine Learning, Research assistant in Tsinghua University, 2019.
-- Constructed X factors (momentum, liquidity, lag etc.,) using ARMA models, and Y (excess return) using Cubic Spline interpolation.
+- Constructed X factors (momentum, liquidity, lag etc.) using ARMA models, and Y (excess return) using Cubic Spline interpolation.
 - Built prediction models using panel regression and Lasso regression separately on Python. Achieved 86% precision within ±2.5bps.
 
 2. Quantitative Stock Selection Strategy Research, Research assistant in Standford University, 2019.
