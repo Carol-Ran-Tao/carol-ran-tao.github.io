@@ -13,6 +13,6 @@ Currently I have obtained more than twenty POP MART toys, some of which are gift
 <div align="center">
 <img src="/images/collection.jpeg" width = 50%>
 </div>
-          
+
 I am always looking for ~~profitable~~ pretty POP MART toys. If you find some, please let me know. I will seriously consider ~~investing~~ buying them.
 
