@@ -28,4 +28,4 @@ As I discuss in the last section, I am crazy about Harry Potter and Disney movie
 
 Apart from the movies, I have visited two Disneyland Parks and three Universal studios. One of my dreams is to visit all of them in the future. 
 
-<div align="center"><img src="/images/disney.jpeg" width = 300><img src="/images/universal-studio.jpeg" width = 300></div>
+<div align="center"><img src="/images/disney.jpeg" height = 400><img src="/images/universal-studio.jpeg" height = 400></div>
