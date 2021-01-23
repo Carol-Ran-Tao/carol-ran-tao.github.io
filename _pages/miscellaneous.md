@@ -10,7 +10,7 @@ My current investment strategy lies in the intersection of beauty and Harry Pott
 
 Currently I have obtained more than twenty POP MART toys, some of which are gifts from my friends. I put them on my desk with my computer, with a hope that they can learn to optimize their appearance and placements using algorithms by themselves.
 
-<div align = center>
+<div align=center>
 <img src='/images/collection.jpeg’ width = 50%>
 </div>
           
